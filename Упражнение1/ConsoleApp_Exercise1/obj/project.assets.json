@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ельцов\\Studying\\dotnet\\Упражнение1\\ConsoleApp_Exercise1\\ConsoleApp_Exercise1.csproj",
+      "projectUniqueName": "D:\\Ельцов\\Studying\\a-eltsov\\studying\\Упражнение1\\ConsoleApp_Exercise1\\ConsoleApp_Exercise1.csproj",
       "projectName": "ConsoleApp_Exercise1",
-      "projectPath": "D:\\Ельцов\\Studying\\dotnet\\Упражнение1\\ConsoleApp_Exercise1\\ConsoleApp_Exercise1.csproj",
+      "projectPath": "D:\\Ельцов\\Studying\\a-eltsov\\studying\\Упражнение1\\ConsoleApp_Exercise1\\ConsoleApp_Exercise1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Ельцов\\Studying\\dotnet\\Упражнение1\\ConsoleApp_Exercise1\\obj\\",
+      "outputPath": "D:\\Ельцов\\Studying\\a-eltsov\\studying\\Упражнение1\\ConsoleApp_Exercise1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Ельцов\\Studying\\dotnet\\Упражнение1\\SportWorkload_library\\SportWorkload_library.csproj": {
-              "projectPath": "D:\\Ельцов\\Studying\\dotnet\\Упражнение1\\SportWorkload_library\\SportWorkload_library.csproj"
+            "D:\\Ельцов\\Studying\\a-eltsov\\studying\\Упражнение1\\SportWorkload_library\\SportWorkload_library.csproj": {
+              "projectPath": "D:\\Ельцов\\Studying\\a-eltsov\\studying\\Упражнение1\\SportWorkload_library\\SportWorkload_library.csproj"
             }
           }
         }

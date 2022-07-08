@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ельцов\\Studying\\dotnet\\Упражнение1\\SportWorkload_library\\SportWorkload_library.csproj",
+      "projectUniqueName": "D:\\Ельцов\\Studying\\a-eltsov\\studying\\Упражнение1\\SportWorkload_library\\SportWorkload_library.csproj",
       "projectName": "SportWorkload_library",
-      "projectPath": "D:\\Ельцов\\Studying\\dotnet\\Упражнение1\\SportWorkload_library\\SportWorkload_library.csproj",
+      "projectPath": "D:\\Ельцов\\Studying\\a-eltsov\\studying\\Упражнение1\\SportWorkload_library\\SportWorkload_library.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Ельцов\\Studying\\dotnet\\Упражнение1\\SportWorkload_library\\obj\\",
+      "outputPath": "D:\\Ельцов\\Studying\\a-eltsov\\studying\\Упражнение1\\SportWorkload_library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
